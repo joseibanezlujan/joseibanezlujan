@@ -4,7 +4,7 @@
 
 <div id="badges" align="center">
 
-[![](https://img.shields.io/badge/Página_Web-yelow?style=for-the-badge&logo=medium&logoColor=white)](https://www.joseibanezlujan.com/)
+[![](https://img.shields.io/badge/Website-yelow?style=for-the-badge&logo=medium&logoColor=white)](https://www.joseibanezlujan.com/)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseibanezlujan/) 
   [![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
  
