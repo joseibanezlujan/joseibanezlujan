@@ -13,7 +13,7 @@
    
    <h1>
   Hello everyone! 
-  <img src="https://thumbs.gfycat.com/ClutteredGaseousFlee-size_restricted.gif" width="300px"/>
+  <img src="https://thumbs.gfycat.com/ClutteredGaseousFlee-size_restricted.gif" width="100px"/>
 </h1>
 
 ---
