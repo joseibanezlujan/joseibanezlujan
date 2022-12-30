@@ -6,7 +6,7 @@
 
 [![](https://img.shields.io/badge/Website-yelow?style=for-the-badge&logo=medium&logoColor=white)](https://www.joseibanezlujan.com/)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeil/) 
-  [![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
+  
  
  <div id="badges" align="center">
   <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=joseibanezlujan.joseibanezlujan&color=00cf00" alt=""/>
@@ -31,7 +31,7 @@ Kind Regards
 
 ---
    
- ### :memo: Data Analysis Skills :
+ ### :memo: Development Skills :
 <div id="header" align="left">
     <img src="https://img.shields.io/badge/SQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="sql"/>
   </a>
