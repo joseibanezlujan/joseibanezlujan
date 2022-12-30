@@ -23,7 +23,7 @@
 
 Hello everyone, My name is Jose, a Business IT professional with a flexible mindset 💪, eager to take on new challenges 🦸‍♂️ and who embraces teamwork. Nevertheless, I can take the lead if needed because I have a strong sense of accomplishment ☝.
 
-I am currently studying for a Business Management degree 👨🏻‍🎓 and I am also training in the use of data analysis tools  📊 such as SQL, Power BI, Tableau and Python, as well as web development languages 👨🏻‍💻 such as Javascript and HTML5.
+I am currently studying for a Business Management degree 👨🏻‍🎓 and I am also training in the use of data analysis tools  📊 such as SQL, Power BI, Tableau and Python, as well as web development languages 👨🏻‍💻 such as Javascript, HTML and CSS.
 
 If you want to get to know me better and discuss any job offers, please feel free to reach me via LinkedIn ☕. 
 
@@ -40,15 +40,16 @@ Jose Ibañez.
  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
   </a>
  <img src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="Powerbi"/>
+  </a>  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" alt="Python"/>
   </a>
   <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" alt="Python"/>
+  <br>  
+  <img src="https://img.shields.io/badge/JAVASCRIPT-FFBE00?style=for-the-badge&logo=javaScript&logoColor=white" alt="JavaScript"/>
   </a>
   <img src="https://img.shields.io/badge/HTML5-FF6347?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   </a>
-  <img src="https://img.shields.io/badge/JAVASCRIPT-FFBE00?style=for-the-badge&logo=javaScript&logoColor=white" alt="JavaScript"/>
-  </a>
-  
+  <img src="https://img.shields.io/badge/HTML5-3776AB?style=for-the-badge&logo=html5&logoColor=white" alt="CSS3"/>
+  </a>  
 </div>
   
  ### :fire: My contribution stats :
