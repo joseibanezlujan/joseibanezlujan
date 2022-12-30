@@ -21,13 +21,15 @@
 
 ### :man_technologist: About me :
 
-My name is Jose, a Business IT professional with a flexible mindset 💪, eager to take on new challenges 🦸‍♂️ and who embraces teamwork. Nevertheless, I can take the lead if needed because I have a strong sense of accomplishment ☝.
+Hello everyone, My name is Jose, a Business IT professional with a flexible mindset 💪, eager to take on new challenges 🦸‍♂️ and who embraces teamwork. Nevertheless, I can take the lead if needed because I have a strong sense of accomplishment ☝.
 
-I am studying a Business Management degree 👨🏻‍🎓, besides several Data Analysis courses 📊 (Power BI, Tableau, SQL, and Python) and Web Development courses as well 👨🏻‍💻 (Javascript, HTML5).
+I am currently studying for a Business Management degree 👨🏻‍🎓 and I am also training in the use of data analysis tools  📊 such as SQL, Power BI, Tableau and Python, as well as web development languages 👨🏻‍💻 such as Javascript and HTML5.
 
-If you want to get in contact, please feel free to reach me via [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeil/) ☕. 
+If you want to get to know me better and discuss any job offers, please feel free to reach me via LinkedIn ☕. 
 
-Kind Regards 
+Best Regards
+
+Jose Ibañez.
 
 ---
    
