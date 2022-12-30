@@ -31,7 +31,7 @@ Kind Regards
 
 ---
    
- ### :memo: Software development skillset:
+ ### :memo: Software development skills:
 <div id="header" align="left">
   <img src="https://img.shields.io/badge/SQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   </a>
