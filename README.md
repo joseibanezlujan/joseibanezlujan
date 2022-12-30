@@ -31,15 +31,20 @@ Kind Regards
 
 ---
    
- ### :memo: Development Skills :
+ ### :memo: Software development skillset:
 <div id="header" align="left">
-    <img src="https://img.shields.io/badge/SQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="sql"/>
+  <img src="https://img.shields.io/badge/SQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   </a>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  </a>    
- <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+ <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
   </a>
- <img src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
+ <img src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="Powerbi"/>
+  </a>
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" alt="Python"/>
+  </a>
+  <img src="https://img.shields.io/badge/HTML5-FF6347?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  </a>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-FFBE00?style=for-the-badge&logo=javaScript&logoColor=white" alt="JavaScript"/>
   </a>
   
 </div>
