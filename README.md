@@ -23,7 +23,7 @@
 
 My name is Jose, a Business IT professional with a flexible mindset 💪, eager to take on new challenges 🦸‍♂️ and who embraces teamwork. Nevertheless, I can take the lead if needed because I have a strong sense of accomplishment ☝.
 
-I am studying a Business Management degree 👨🏻‍🎓, besides several Data Analysis courses 📊 related to (Power BI, Tableau, SQL, and Python) and some Web Development courses as well 👨🏻‍💻 .
+I am studying a Business Management degree 👨🏻‍🎓, besides several Data Analysis courses 📊 (Power BI, Tableau, SQL, and Python) and Web Development courses as well 👨🏻‍💻 (Javascript, HTML5).
 
 If you want to get in contact, please feel free to reach me via [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeil/) ☕. 
 
