@@ -5,7 +5,7 @@
 <div id="badges" align="center">
 
 [![](https://img.shields.io/badge/Website-yelow?style=for-the-badge&logo=medium&logoColor=white)](https://www.joseibanezlujan.com/)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseibanezlujan/) 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeil/) 
   [![](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
  
  <div id="badges" align="center">
@@ -25,7 +25,7 @@ My name is Jose, a Business IT professional with a flexible mindset 💪, eager 
 
 I am studying a Business Management degree 👨🏻‍🎓, besides several Data Analysis courses 📊 related to (Power BI, Tableau, SQL, and Python) and some Web Development courses as well 👨🏻‍💻 .
 
-If you want to get in contact, please feel free to reach me via [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joseibanezlujan/) ☕. 
+If you want to get in contact, please feel free to reach me via [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeil/) ☕. 
 
 Kind Regards 
 
