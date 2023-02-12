@@ -21,15 +21,21 @@
 
 ### :man_technologist: About me :
 
-Hello everyone, My name is Jose, a Business IT professional with a flexible mindset 💪, eager to take on new challenges 🦸‍♂️ and who embraces teamwork. Nevertheless, I can take the lead if needed because I have a strong sense of accomplishment ☝.
+👋 Hello, my name is Jose Ibanez, and I'm a versatile and experienced Business IT professional 💪. I bring a collaborative mindset and a results-driven approach to all projects I work on, and I'm comfortable taking the lead when needed ☝️. 
 
-I am currently studying for a Business Management degree 👨🏻‍🎓 and I am also training in the use of data analysis tools  📊 such as SQL, Power BI, Tableau and Python, as well as web development languages 👨🏻‍💻 such as Javascript, HTML and CSS.
+With a strong sense of accomplishment and a passion for taking on new challenges 🦸‍♂️, I'm excited to leverage my skills and knowledge to help your organization achieve its goals 🎯. 
 
-If you want to get to know me better and discuss any job offers, please feel free to reach me via LinkedIn ☕. 
+I'm currently pursuing a degree in Business Management and Administration 👨🏻‍🎓 and training in data analysis tools 📊 such as SQL, Python, Power BI, and Tableau. While I'm still developing my skills in frontend development tools 👨🏻‍💻 like JavaScript, HTML, and CSS, I feel comfortable taking on tasks in all of those areas.
 
-Best Regards
+As a curious individual, I'm committed to constantly expanding my knowledge and skills every day, and I would be happy to contribute to the success of any team I work with.
 
-Jose Ibañez.
+If you believe that I can be a good fit within your company, please feel free to contact me so we can talk about it ☕.
+
+I'm available to work in 📍 Madrid | 📍 Santa Cruz de Tenerife | 🌐 Remote (Within Spain).
+
+Kind regards,
+
+Jose Ibañez Lujan
 
 ---
    
