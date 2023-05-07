@@ -54,7 +54,7 @@ Jose Ibañez Lujan
   </a>
   <img src="https://img.shields.io/badge/HTML5-FF6347?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   </a>
-  <img src="https://img.shields.io/badge/CSS3-3776AB?style=for-the-badge&logo=html5&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/CSS3-3776AB?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   </a>  
 </div>
   
