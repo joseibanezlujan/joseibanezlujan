@@ -23,7 +23,7 @@
 
 Hello, my name is Jose Ibanez . I am an experienced IT Business Analyst who brings a collaborative mindset and a results driven approach to all projects I work on 🎖️. I have a strong sense of accomplishment and a passion for taking on new challenges 💪.  I'm excited to leverage my skills and knowledge to help your organization achieve its goals 🎯.  I'm also comfortable taking the lead when needed 🦸‍♂️.
 
-Currently, I am pursuing a degree in Business Management and Administration 👨🏻‍🎓 and taking Data Analysis courses 📊.  Actively improving my skills in SQL, Excel, Python, and Power BI. I also have an interest in web development 👨🏻‍💻, particularly in HTML, CSS, PHP, and JavaScript, as I feel confident working on projects that utilize those data and web development skills.
+Currently, I am pursuing a degree in Business Management and Administration 👨🏻‍🎓 while also taking Data Analysis courses 📊 that cover SQL, Excel, Python, and Power BI. Additionally, I have a keen interest in web development 👨🏻‍💻, specifically in HTML, CSS, PHP, and JavaScript.
 
 If you believe that I can be a good fit within your company, please feel free to reach out to me, and we can have a friendly chat over a virtual cup of coffee ☕.  I'm excited to discuss it further with you!
 
@@ -35,21 +35,24 @@ Regards 👋
    
  ### :memo: Software development skills:
 <div id="header" align="left">
-  <img src="https://img.shields.io/badge/SQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/SQL-0076D6?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
   </a>
  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
   </a>
- <img src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="Powerbi"/>
-  </a>  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" alt="Python"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+  </a>
+  <img src="https://img.shields.io/badge/Power_BI-008484?style=for-the-badge&logo=Power-BI&logoColor=white" alt="Powerbi"/>
   </a>
   <br>
   <br>  
-  <img src="https://img.shields.io/badge/JAVASCRIPT-FFBE00?style=for-the-badge&logo=javaScript&logoColor=white" alt="JavaScript"/>
-  </a>
   <img src="https://img.shields.io/badge/HTML5-FF6347?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   </a>
   <img src="https://img.shields.io/badge/CSS3-3776AB?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </a>  
+  </a>
+  <img src="https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  </a>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-FFBE00?style=for-the-badge&logo=javaScript&logoColor=white" alt="JavaScript"/>
+  </a>
 </div>
   
  ### :fire: My contribution stats :
