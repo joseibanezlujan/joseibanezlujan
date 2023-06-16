@@ -21,21 +21,15 @@
 
 ### :man_technologist: About me :
 
-👋 Hello, my name is Jose Ibanez, and I'm a versatile and experienced Business IT professional 💪. I bring a collaborative mindset and a results-driven approach to all projects I work on, and I'm comfortable taking the lead when needed ☝️. 
+Hello, my name is Jose Ibanez . I am an experienced IT Business Analyst who brings a collaborative mindset and a results driven approach to all projects I work on 🎖️. I have a strong sense of accomplishment and a passion for taking on new challenges 💪.  I'm excited to leverage my skills and knowledge to help your organization achieve its goals 🎯.  I'm also comfortable taking the lead when needed 🦸‍♂️.
 
-With a strong sense of accomplishment and a passion for taking on new challenges 🦸‍♂️, I'm excited to leverage my skills and knowledge to help your organization achieve its goals 🎯. 
+Currently, I am pursuing a degree in Business Management and Administration 👨🏻‍🎓 and taking Data Analysis courses 📊.  Actively improving my skills in SQL, Excel, Python, and Power BI. I also have an interest in web development 👨🏻‍💻, particularly in HTML, CSS, PHP, and JavaScript, as I feel confident working on projects that utilize those data and web development skills.
 
-I'm currently pursuing a degree in Business Management and Administration 👨🏻‍🎓 and training in data analysis tools 📊 such as SQL, Python, Power BI, and Tableau. While I'm still developing my skills in frontend development tools 👨🏻‍💻 like JavaScript, HTML, and CSS, I feel comfortable taking on tasks in all of those areas.
+If you believe that I can be a good fit within your company, please feel free to reach out to me, and we can have a friendly chat over a virtual cup of coffee ☕.  I'm excited to discuss it further with you!
 
-As a curious individual, I'm committed to constantly expanding my knowledge and skills every day, and I would be happy to contribute to the success of any team I work with.
+I am available to work in 📍 Madrid | 📍 Santa Cruz de Tenerife | 🌐 Remote (within Spain).
 
-If you believe that I can be a good fit within your company, please feel free to contact me so we can talk about it ☕.
-
-I'm available to work in 📍 Madrid | 📍 Santa Cruz de Tenerife | 🌐 Remote (Within Spain).
-
-Kind regards,
-
-Jose Ibañez Lujan
+Regards 👋
 
 ---
    
