@@ -27,9 +27,9 @@ Currently, I am pursuing a degree in Business Management and Administration 👨
 
 If you believe that I can be a good fit within your company, please feel free to reach out to me, and we can have a friendly chat over a virtual cup of coffee ☕.  I'm excited to discuss it further with you!
 
-I am available to work in 📍 Madrid | 📍 Santa Cruz de Tenerife | 🌐 Remote (within Spain).
+I am available to work in 📍 Madrid | 🏝️ Santa Cruz de Tenerife | 🏡 Remote (within Spain).
 
-Regards 👋
+Best regards 👋
 
 ---
    
